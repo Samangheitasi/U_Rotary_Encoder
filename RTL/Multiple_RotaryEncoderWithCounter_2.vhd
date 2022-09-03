@@ -68,3 +68,4 @@ port map(
  
    -- architecture body
 end architecture_Multiple_RotaryEncoderWithCounter_2;
+--
